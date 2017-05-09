@@ -1,0 +1,64 @@
+<!--index.wxml-->
+<view class="container">
+      <view class="sk-wandering-cubes">
+        <view class="sk-cube sk-cube1"></view>
+        <view class="sk-cube sk-cube2"></view>
+      </view>
+       <view class="sk-rotating-plane"></view>
+
+         <view class="sk-double-bounce">
+        <view class="sk-child sk-double-bounce1"></view>
+        <view class="sk-child sk-double-bounce2"></view>
+      </view>
+
+
+       <view class="sk-wave">
+        <view class="sk-rect sk-rect1"></view>
+        <view class="sk-rect sk-rect2"></view>
+        <view class="sk-rect sk-rect3"></view>
+        <view class="sk-rect sk-rect4"></view>
+        <view class="sk-rect sk-rect5"></view>
+      </view>
+
+ <view class="sk-three-bounce">
+        <view class="sk-child sk-bounce1"></view>
+        <view class="sk-child sk-bounce2"></view>
+        <view class="sk-child sk-bounce3"></view>
+      </view>
+         <view class="sk-circle">
+        <view class="sk-circle1 sk-child"></view>
+        <view class="sk-circle2 sk-child"></view>
+        <view class="sk-circle3 sk-child"></view>
+        <view class="sk-circle4 sk-child"></view>
+        <view class="sk-circle5 sk-child"></view>
+        <view class="sk-circle6 sk-child"></view>
+        <view class="sk-circle7 sk-child"></view>
+        <view class="sk-circle8 sk-child"></view>
+        <view class="sk-circle9 sk-child"></view>
+        <view class="sk-circle10 sk-child"></view>
+        <view class="sk-circle11 sk-child"></view>
+        <view class="sk-circle12 sk-child"></view>
+      </view>
+
+      <view class="sk-cube-grid">
+        <view class="sk-cube sk-cube1"></view>
+        <view class="sk-cube sk-cube2"></view>
+        <view class="sk-cube sk-cube3"></view>
+        <view class="sk-cube sk-cube4"></view>
+        <view class="sk-cube sk-cube5"></view>
+        <view class="sk-cube sk-cube6"></view>
+        <view class="sk-cube sk-cube7"></view>
+        <view class="sk-cube sk-cube8"></view>
+        <view class="sk-cube sk-cube9"></view>
+      </view>
+
+
+       <view class="sk-folding-cube">
+        <view class="sk-cube1 sk-cube"></view>
+        <view class="sk-cube2 sk-cube"></view>
+        <view class="sk-cube4 sk-cube"></view>
+        <view class="sk-cube3 sk-cube"></view>
+      </view>
+
+
+</view>
