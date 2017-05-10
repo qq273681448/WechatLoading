@@ -1,0 +1,203 @@
+<!--<view class="loading">
+	<view class="dot white"></view>
+	<view class="dot"></view>
+	<view class="dot"></view>
+	<view class="dot"></view>
+	<view class="dot"></view>
+</view>-->
+<view class="container">
+<div class="loader">
+        <div class="loader-inner ball-pulse">
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner ball-grid-pulse">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner ball-clip-rotate">
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner ball-clip-rotate-pulse">
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+
+      <div class="loader">
+        <div class="loader-inner ball-clip-rotate-multiple">
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner ball-pulse-rise">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+
+      <div class="loader">
+        <div class="loader-inner cube-transition">
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner ball-zig-zag">
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner ball-zig-zag-deflect">
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner ball-triangle-path">
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner ball-scale">
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner line-scale">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner line-scale-party">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner ball-scale-multiple">
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner ball-pulse-sync">
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner ball-beat">
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner line-scale-pulse-out">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner line-scale-pulse-out-rapid">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner ball-scale-ripple">
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner ball-scale-ripple-multiple">
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner ball-spin-fade-loader">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner line-spin-fade-loader">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+
+      <div class="loader">
+        <div class="loader-inner pacman">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+      <div class="loader">
+        <div class="loader-inner ball-grid-beat">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+
+</view>
